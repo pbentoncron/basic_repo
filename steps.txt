@@ -1,0 +1,28 @@
+cd Desktop
+mkdir basic_repo
+cd basic_repo
+git init
+touch index.html styles.css steps.txt
+added content using sublime
+using terminal:
+git add.
+git status
+git commit -m “edited index.html and styles.css”
+git status
+git remote add origin https://github.com/pbentoncron/basic_repo.git
+git push origin master
+git push
+made more changes in sublime
+using terminal:
+git add.
+git status
+git commit -m “edited index.html and styles.css”
+git status
+git push
+edited steps.txt
+using terminal:
+git add.
+git status
+git commit -m “edited index.html and styles.css”
+git status
+git push
